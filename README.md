@@ -9,3 +9,6 @@
 4Code is available at: https://github.com/hantek/deeplearn_hsi  
 
 5Code is available at: https://github.com/xiangyongcao/CNN_HSIC_MRF  
+
+Hyperspectral Image Classification With Convolutional Neural Network and Active Learning  
+https://github.com/xiangyongcao/CNN-AL-MRF
