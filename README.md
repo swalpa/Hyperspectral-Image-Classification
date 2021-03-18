@@ -11,4 +11,8 @@
 5Code is available at: https://github.com/xiangyongcao/CNN_HSIC_MRF  
 
 Hyperspectral Image Classification With Convolutional Neural Network and Active Learning  
-https://github.com/xiangyongcao/CNN-AL-MRF
+https://github.com/xiangyongcao/CNN-AL-MRF  
+
+Generative Adversarial Capsule Network  
+https://github.com/vlraik/CapsNet-GAN-Tensorflow  
+https://github.com/vlraik/CapsNet-GAN-Tensorflow  
