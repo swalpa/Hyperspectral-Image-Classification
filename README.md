@@ -15,7 +15,6 @@ https://github.com/xiangyongcao/CNN-AL-MRF
 
 Generative Adversarial Capsule Network  
 https://github.com/vlraik/CapsNet-GAN-Tensorflow  
-https://github.com/vlraik/CapsNet-GAN-Tensorflow   
 
 Hyperspectral image classification with deep feature fusion network  
 https://github.com/weiweisong415/Demo_DFFN  
