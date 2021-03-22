@@ -19,4 +19,11 @@ https://github.com/vlraik/CapsNet-GAN-Tensorflow
 
 Hyperspectral image classification with deep feature fusion network  
 https://github.com/weiweisong415/Demo_DFFN  
+  
+Implementation of SSRN for Hyperspectral Image Classification  
+https://github.com/zilongzhong/SSRN  
+
+Open-set-domain-adaptatin-HSI-classification-using-GAN  
+https://github.com/nirmalsenthilnathan/Open-Set-Domain-Adaptation-for-Hyperspectral-Image-Classification-Using-Generative-Adversarial-Netwo  
+
 
