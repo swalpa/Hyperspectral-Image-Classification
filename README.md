@@ -25,4 +25,8 @@ https://github.com/zilongzhong/SSRN
 Open-set-domain-adaptatin-HSI-classification-using-GAN  
 https://github.com/nirmalsenthilnathan/Open-Set-Domain-Adaptation-for-Hyperspectral-Image-Classification-Using-Generative-Adversarial-Netwo  
 
+A survey: Deep Learning for Hyperspectral Image Classification with Few Labeled Samples  
+https://github.com/ShuGuoJ/HSI-Classification  
+
+
 
