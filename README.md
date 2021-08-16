@@ -28,5 +28,6 @@ https://github.com/nirmalsenthilnathan/Open-Set-Domain-Adaptation-for-Hyperspect
 A survey: Deep Learning for Hyperspectral Image Classification with Few Labeled Samples  
 https://github.com/ShuGuoJ/HSI-Classification  
 
-
+-综述  
+https://github.com/eecn/Hyperspectral-Classification  
 
