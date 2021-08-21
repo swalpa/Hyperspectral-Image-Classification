@@ -31,3 +31,5 @@ https://github.com/ShuGuoJ/HSI-Classification
 - 综述  
 https://github.com/eecn/Hyperspectral-Classification  
 
+- A2S2K-ResNet  
+https://github.com/suvojit-0x55aa/A2S2K-ResNet  
