@@ -10,6 +10,9 @@
 
 - 5Code is available at: https://github.com/xiangyongcao/CNN_HSIC_MRF  
 
+- Implementation of HybridSN for Hyperspectral Image Classification
+https://github.com/gokriznastic/HybridSN 
+
 - Hyperspectral Image Classification With Convolutional Neural Network and Active Learning  
 https://github.com/xiangyongcao/CNN-AL-MRF  
 
@@ -33,3 +36,6 @@ https://github.com/eecn/Hyperspectral-Classification
 
 - A2S2K-ResNet  
 https://github.com/suvojit-0x55aa/A2S2K-ResNet  
+
+- Implementation of 3D-HyperGAMO for imbalanced Hyperspectral Image Classification
+https://github.com/mhaut/3D-HyperGAMO
